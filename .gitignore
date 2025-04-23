@@ -1,0 +1,12 @@
+/client/node_modules/  
+/client/npm-debug.log*
+/client/yarn-debug.log*
+/client/dist
+/client/.vscode/*
+/client/logs
+/client/dist-ssr
+/client/*.local
+/client/.env
+
+/server/node_modules/
+/server/.env
